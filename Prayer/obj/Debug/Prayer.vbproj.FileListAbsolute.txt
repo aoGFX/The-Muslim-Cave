@@ -1,0 +1,27 @@
+C:\Users\DarkT\AppData\Local\Temporary Projects\Prayer\bin\Debug\Prayer.exe.config
+C:\Users\DarkT\Documents\Visual Studio 2015\Projects\Prayer\Prayer\obj\Debug\Prayer.vbproj.GenerateResource.Cache
+C:\Users\DarkT\Documents\Visual Studio 2015\Projects\Prayer\Prayer\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\DarkT\Documents\Visual Studio 2015\Projects\Prayer\Prayer\bin\Debug\The Muslim Cave.exe.config
+C:\Users\DarkT\Documents\Visual Studio 2015\Projects\Prayer\Prayer\bin\Debug\The Muslim Cave.exe
+C:\Users\DarkT\Documents\Visual Studio 2015\Projects\Prayer\Prayer\bin\Debug\The Muslim Cave.pdb
+C:\Users\DarkT\Documents\Visual Studio 2015\Projects\Prayer\Prayer\bin\Debug\The Muslim Cave.xml
+C:\Users\DarkT\Documents\Visual Studio 2015\Projects\Prayer\Prayer\obj\Debug\TheMuslimCave.Form1.resources
+C:\Users\DarkT\Documents\Visual Studio 2015\Projects\Prayer\Prayer\obj\Debug\TheMuslimCave.Resources.resources
+C:\Users\DarkT\Documents\Visual Studio 2015\Projects\Prayer\Prayer\obj\Debug\The Muslim Cave.exe
+C:\Users\DarkT\Documents\Visual Studio 2015\Projects\Prayer\Prayer\obj\Debug\The Muslim Cave.xml
+C:\Users\DarkT\Documents\Visual Studio 2015\Projects\Prayer\Prayer\obj\Debug\The Muslim Cave.pdb
+C:\Users\DarkT\Documents\Visual Studio 2015\Projects\Prayer\Prayer\obj\Debug\TheMuslimCave.alarm_notif.resources
+G:\New Doc\new doc\Visual Studio 2015\Projects\Prayer\Prayer\bin\Debug\The Muslim Cave.exe.config
+G:\New Doc\new doc\Visual Studio 2015\Projects\Prayer\Prayer\bin\Debug\The Muslim Cave.exe
+G:\New Doc\new doc\Visual Studio 2015\Projects\Prayer\Prayer\bin\Debug\The Muslim Cave.pdb
+G:\New Doc\new doc\Visual Studio 2015\Projects\Prayer\Prayer\bin\Debug\The Muslim Cave.xml
+G:\New Doc\new doc\Visual Studio 2015\Projects\Prayer\Prayer\bin\Debug\Bunifu_UI_v1.5.3.dll
+G:\New Doc\new doc\Visual Studio 2015\Projects\Prayer\Prayer\obj\Debug\Prayer.vbprojResolveAssemblyReference.cache
+G:\New Doc\new doc\Visual Studio 2015\Projects\Prayer\Prayer\obj\Debug\TheMuslimCave.alarm_notif.resources
+G:\New Doc\new doc\Visual Studio 2015\Projects\Prayer\Prayer\obj\Debug\TheMuslimCave.Form1.resources
+G:\New Doc\new doc\Visual Studio 2015\Projects\Prayer\Prayer\obj\Debug\TheMuslimCave.Resources.resources
+G:\New Doc\new doc\Visual Studio 2015\Projects\Prayer\Prayer\obj\Debug\Prayer.vbproj.GenerateResource.Cache
+G:\New Doc\new doc\Visual Studio 2015\Projects\Prayer\Prayer\obj\Debug\Prayer.vbproj.CoreCompileInputs.cache
+G:\New Doc\new doc\Visual Studio 2015\Projects\Prayer\Prayer\obj\Debug\The Muslim Cave.exe
+G:\New Doc\new doc\Visual Studio 2015\Projects\Prayer\Prayer\obj\Debug\The Muslim Cave.xml
+G:\New Doc\new doc\Visual Studio 2015\Projects\Prayer\Prayer\obj\Debug\The Muslim Cave.pdb
